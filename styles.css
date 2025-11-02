@@ -1,0 +1,46 @@
+/* styles.css - Dark theme for the app */
+body, .stApp {
+    background-color: #0f1720 !important;
+    color: #e6f7ef !important;
+}
+
+/* Title and subtitles */
+h1.title {
+    color: #00E5A8 !important;
+    text-align: center;
+    font-weight: 700;
+}
+p.subtitle {
+    color: #9be7d5 !important;
+    text-align: center;
+    font-size: 14px;
+}
+p.hint {
+    color: #bfeee0 !important;
+}
+
+/* Sidebar */
+.sidebar .sidebar-content {
+    background-color: #09121a !important;
+    color: #dff7ee !important;
+}
+
+/* Buttons */
+.stButton>button {
+    background: linear-gradient(90deg, #00E5A8, #00B8F4) !important;
+    color: #001011 !important;
+    border: none !important;
+    padding: 8px 18px !important;
+    border-radius: 8px !important;
+    font-weight: 600;
+}
+
+/* Inputs */
+input, textarea {
+    background-color: #071017 !important;
+    color: #e6f7ef !important;
+    border: 1px solid #08303a !important;
+}
+
+/* Dataframe header */
+.css-1d391kg { color: #dff7ee !important; }
