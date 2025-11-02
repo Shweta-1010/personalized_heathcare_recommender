@@ -44,4 +44,20 @@ The system also integrates an **SQL-based user authentication module** and a **d
 | Data Visualization | Plotly, Seaborn, Matplotlib |
 | Authentication | SQL-based login system |
 
+---
 
+## 🌱 Future Scope
+
+The project can be extended and improved further with the following features:
+
+-Integration with Wearable Devices: Real-time monitoring from smartwatches and IoT health sensors.
+
+-AI Chatbot Integration: Add a conversational assistant for users to describe symptoms naturally.
+
+Doctor & Patient Portal: -Dedicated dashboards for doctors to review patient predictions and feedback.
+
+-Medical Report Upload: Accept lab reports and prescriptions as PDFs/images for intelligent analysis using NLP.
+
+-Advanced Machine Learning Models: Incorporate Deep Learning for improved prediction accuracy. Add context-aware recommendations using hybrid filtering models.
+
+---
