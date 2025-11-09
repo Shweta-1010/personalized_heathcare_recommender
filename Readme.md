@@ -4,7 +4,7 @@
 The **Personalized Healthcare Recommendation System** leverages **Machine Learning (ML)** and **Artificial Intelligence (AI)** to assist users in predicting diseases and recommending appropriate medicines based on symptoms.  
 It provides an interactive, user-friendly, and visually appealing interface that allows patients to enter their health details and receive tailored predictions.
 
-The system also integrates an **SQL-based user authentication module** and a **data analytics dashboard** to visualize patterns and patient data insights.
+The system also integrates an **SQL-based user authentication module** and a **data analytics dashboard** to visualize patterns and patient data insights. It's a beginner level project.
 
 ---
 
@@ -54,7 +54,7 @@ The project can be extended and improved further with the following features:
 
 -AI Chatbot Integration: Add a conversational assistant for users to describe symptoms naturally.
 
-Doctor & Patient Portal: -Dedicated dashboards for doctors to review patient predictions and feedback.
+-Doctor & Patient Portal: Dedicated dashboards for doctors to review patient predictions and feedback.
 
 -Medical Report Upload: Accept lab reports and prescriptions as PDFs/images for intelligent analysis using NLP.
 
